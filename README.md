@@ -12,4 +12,4 @@ Diagrams : www.draw.io  #07 diagram
 diagram 02
 
 https://cdnjs.com/libraries/semantic-ui  : https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css
-link rel="typescript" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" /> => index.html
+# link rel="typescript" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" /> => index.html
