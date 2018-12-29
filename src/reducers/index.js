@@ -1,6 +1,7 @@
 
 import { combineReducers } from 'redux';
+import { fetchPosts } from './postsReducer';
 
 export default combineReducers({
-  changemy: () => 'Change me later'
+    posts: fetchPosts  
 });
