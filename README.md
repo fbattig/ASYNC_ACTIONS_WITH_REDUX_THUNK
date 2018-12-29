@@ -1,9 +1,8 @@
 "# ASYNC_ACTIONS_WITH_REDUX_THUNK" 
 ------------------------------
-153/154
+### 153/154
 
-npm install --save redux react-redux axios redux-thunk
-
+npm install --save redux react-redux axios redux-thunk<br />
 Diagrams : www.draw.io  #07 diagram
 
 ----------------------------------------------------------------------------------------------------------------------
