@@ -2,3 +2,4 @@
 ------------------------------
 153
 npm install --save redux react-redux axios redux-thunk
+Diagrams : www.draw.io
